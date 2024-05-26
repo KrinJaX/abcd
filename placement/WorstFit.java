@@ -1,4 +1,3 @@
-package OsJava.placement;
 import java.util.Scanner;
 
 public class WorstFit {

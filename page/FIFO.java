@@ -1,5 +1,3 @@
-package OsJava.page;
-
 import java.util.*;
 
 public class FIFO{

@@ -1,6 +1,4 @@
-package OsJava.placement;
 import java.util.Scanner;
-
 public class NextFit {
     public static void main(String[] args) {
         int numBlocks, numProc;

@@ -1,5 +1,3 @@
-package OsJava.scheduling;
-
 import java.util.ArrayList;
 
 class Process{

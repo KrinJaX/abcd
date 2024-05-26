@@ -1,5 +1,3 @@
-package OsJava.scheduling;
-
 // Preemptive SJF
 public class SRTF {
     public static void main(String[] args) {

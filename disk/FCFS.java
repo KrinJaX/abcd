@@ -1,5 +1,3 @@
-package OsJava.disk;
-
 import java.util.*; 
 
 public class FCFS {

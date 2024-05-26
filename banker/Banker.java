@@ -1,5 +1,3 @@
-package OsJava.banker;
-
 import java.util.*;
 
 public class Banker{

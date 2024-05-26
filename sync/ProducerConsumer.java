@@ -1,5 +1,3 @@
-package OsJava.sync;
-
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.concurrent.Semaphore;
